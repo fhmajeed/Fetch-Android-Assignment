@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Fetch Android Assignment</string>
+    <string name="app_name">Fetch Reward</string>
     <string name="home">Fetch Reward</string>
     <string name="back">Back</string>
+    <string name="list_item_heading">List Items %1$s</string>
 </resources>
